@@ -67,6 +67,19 @@ Tasks performed:
 
 This step demonstrates how organisations manage identities and control access within Microsoft 365.
 
+### User Creation in Entra ID
+
+A test user account was created in Microsoft Entra ID.
+
+![Entra User Creation](images/01-entra-user-created.png)
+
+### License Assignment
+
+The user was assigned a Microsoft 365 Business Premium license.
+
+![License Assignment](images/02-license-assigned.png)
+
+
 ---
 
 ## Device Enrollment (Intune)
@@ -193,14 +206,3 @@ The user mailbox was converted to a **Shared Mailbox**, allowing the Microsoft 3
 - Microsoft 365 troubleshooting
 
 
-### User Creation in Entra ID
-
-A test user account was created in Microsoft Entra ID.
-
-![Entra User Creation](images/01-entra-user-created.png)
-
-### License Assignment
-
-The user was assigned a Microsoft 365 Business Premium license.
-
-![License Assignment](images/02-license-assigned.png)
