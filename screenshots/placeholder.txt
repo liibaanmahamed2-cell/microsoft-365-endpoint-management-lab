@@ -1,0 +1,1 @@
+This folder stores all screenshots for the Microsoft 365 Endpoint Management Lab project.
