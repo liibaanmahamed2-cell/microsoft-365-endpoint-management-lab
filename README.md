@@ -67,18 +67,20 @@ Tasks performed:
 
 This step demonstrates how organisations manage identities and control access within Microsoft 365.
 
-### User Creation in Entra ID
+### User Created
+![User Created](./screenshots/user-created.png)
 
-A test user account was created in Microsoft Entra ID.
+### License Assigned
+![License Assigned](./screenshots/license-assigned.png)
 
-![Entra User Creation](images/01-entra-user-created.png)
+### Password Reset
+![Password Reset](./screenshots/password-reset.png)
 
-### License Assignment
+### Account Disabled
+![Account Disabled](./screenshots/account-disabled.png)
 
-The user was assigned a Microsoft 365 Business Premium license.
-
-![License Assignment](images/02-license-assigned.png)
-
+### Sign-in Logs
+![Sign-in Logs](./screenshots/signin-logs.png)
 
 ---
 
