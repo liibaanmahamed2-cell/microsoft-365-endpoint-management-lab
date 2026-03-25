@@ -88,14 +88,31 @@ This step demonstrates how organisations manage identities and control access wi
 
 A Windows 11 virtual machine was enrolled into Microsoft Intune to simulate a corporate managed device.
 
-Tasks performed:
+### Tasks Performed:
 
-- Enabled automatic MDM enrollment  
-- Joined the device to Microsoft Entra ID  
-- Verified device enrollment within Intune  
-- Confirmed the device appeared in the Intune device inventory  
+- Enrolled a Windows 11 virtual machine into Microsoft Intune via Microsoft Entra ID
+- Enabled automatic MDM enrollment for the device  
+- Verified successful device registration in Microsoft Entra ID  
+- Confirmed device visibility within Microsoft Intune device inventory  
+- Applied and reviewed a compliance policy to the enrolled device  
+- Validated device compliance status as “Compliant” within Intune  
+- Monitored device check-in status to ensure active communication with Intune  
 
 Device enrollment allows administrators to manage devices centrally using security policies and configuration profiles.
+### Device Enrolled (Work Account Connected)
+![Device Enrolled](./screenshots/device-enrolled.png)
+
+### Device Registered in Entra ID
+![Entra Device](./screenshots/entra-device-list.png)
+
+### Device Listed in Intune
+![Intune Device](./screenshots/intune-device-list.png)
+
+### Compliance Policy Applied
+![Compliance Policy](./screenshots/compliance-policy.png)
+
+### Device Compliance Status
+![Device Compliance](./screenshots/device-compliance.png)
 
 ---
 
