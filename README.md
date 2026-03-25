@@ -119,14 +119,26 @@ Device enrollment allows administrators to manage devices centrally using securi
 
 Device security policies were implemented using Microsoft Intune compliance policies and Microsoft Entra Conditional Access.
 
-Tasks performed:
+### Tasks Performed:
 
-- Created Windows compliance policy requiring a minimum OS version  
-- Configured actions for non-compliant devices  
-- Created Conditional Access policy requiring compliant devices to access Microsoft 365 resources  
-- Tested access behaviour when the device was compliant and non-compliant  
+- Created a Windows compliance policy in Microsoft Intune to enforce device security requirements  
+- Evaluated device compliance against configured policy settings  
+- Verified that the enrolled device met compliance requirements within Intune  
+- Created a Conditional Access policy in Microsoft Entra ID targeting Microsoft 365 applications  
+- Configured grant controls to require devices to be marked as compliant before access is granted  
+- Tested and validated that access to resources is restricted based on device compliance status
 
-This demonstrates how organisations enforce security standards before allowing access to corporate resources.
+### Compliance Policy
+![Compliance Policy](./screenshots/compliance-policy.png)
+
+### Device Compliance Status
+![Device Compliance](./screenshots/device-compliance.png)
+
+### Conditional Access Policy
+![Conditional Access Policy](./screenshots/conditional-access-policy.png)
+
+### Grant Controls (Require Compliant Device)
+![Grant Controls](./screenshots/grant-controls.png)
 
 ---
 
