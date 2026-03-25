@@ -134,13 +134,15 @@ Device security policies were implemented using Microsoft Intune compliance poli
 ### Device Compliance Status
 ![Device Compliance](./screenshots/device-compliance.png)
 
-### Conditional Access Policy
+### Conditional Access Policy Overview
 ![Conditional Access Policy](./screenshots/conditional-access-policy.png)
+
+### Conditional Access Assignments
+![Conditional Access Assignments](./screenshots/conditional-access-assignments.png)
 
 ### Grant Controls (Require Compliant Device)
 ![Grant Controls](./screenshots/grant-controls.png)
 
----
 
 ## Exchange Online Administration
 
