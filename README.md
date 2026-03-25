@@ -91,7 +91,6 @@ A Windows 11 virtual machine was enrolled into Microsoft Intune to simulate a co
 ### Tasks Performed:
 
 - Enrolled a Windows 11 virtual machine into Microsoft Intune via Microsoft Entra ID
-- Enabled automatic MDM enrollment for the device  
 - Verified successful device registration in Microsoft Entra ID  
 - Confirmed device visibility within Microsoft Intune device inventory  
 - Applied and reviewed a compliance policy to the enrolled device  
