@@ -183,15 +183,18 @@ These tasks demonstrate common email administration and troubleshooting processe
 
 ## Windows Autopilot Deployment
 
-Windows Autopilot was configured to demonstrate modern device provisioning.
+Windows Autopilot was explored to understand how devices can be provisioned and configured automatically in a modern enterprise environment.
 
-Tasks performed:
+Although the device in this lab was enrolled directly into Microsoft Intune, an Autopilot deployment profile was created and configured to demonstrate knowledge of automated provisioning workflows.
 
-- Created an Autopilot deployment profile  
+### Tasks Performed:
+
+- Created a Windows Autopilot deployment profile  
 - Configured Out-of-Box Experience (OOBE) settings  
-- Configured the Enrollment Status Page (ESP)
+- Reviewed deployment configuration options for automated device provisioning  
+- Explored how Autopilot integrates with Microsoft Intune for device management  
 
-Autopilot allows organisations to provision devices automatically, enabling employees to receive a device and configure it simply by signing in with their work account.
+These tasks demonstrate an understanding of how organisations standardise and automate device setup using Windows Autopilot.
 
 ---
 
