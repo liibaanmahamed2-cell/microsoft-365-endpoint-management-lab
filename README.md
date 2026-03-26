@@ -211,6 +211,6 @@ Although the device in this lab was enrolled directly into Microsoft Intune, an 
 - Windows device compliance management  
 - Exchange Online mailbox administration  
 - Windows Autopilot deployment configuration  
-- Microsoft 365 troubleshooting
+
 
 
