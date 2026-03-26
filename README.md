@@ -195,58 +195,6 @@ Autopilot allows organisations to provision devices automatically, enabling empl
 
 ---
 
-## Helpdesk Scenarios Simulated
-
-During the lab, several real-world helpdesk scenarios were simulated to better understand how Microsoft 365 administrators troubleshoot enterprise environments.
-
-### Scenario 1 – User unable to access Microsoft 365 resources
-
-Issue:
-A user attempted to access Microsoft 365 services but access was blocked.
-
-Investigation:
-Conditional Access policies required the device to be compliant with Intune security policies.
-
-Resolution:
-The device was synchronised with Intune and brought into compliance, allowing access to company resources.
-
----
-
-### Scenario 2 – Mailbox access request
-
-Issue:
-A user required access to a shared support mailbox.
-
-Investigation:
-Exchange Online mailbox permissions were reviewed.
-
-Resolution:
-Mailbox delegation was configured by assigning **Full Access** and **Send As** permissions.
-
----
-
-### Scenario 3 – Missing email troubleshooting
-
-Issue:
-A sender reported that an email had been sent but the recipient could not locate the message.
-
-Investigation:
-Exchange Online **Message Trace** was used to track the message through the mail flow pipeline.
-
-Resolution:
-The trace confirmed the email had been successfully delivered to the mailbox.
-
----
-
-### Scenario 4 – Employee offboarding process
-
-Issue:
-An employee leaving the organisation required their mailbox to remain accessible while removing license costs.
-
-Resolution:
-The user mailbox was converted to a **Shared Mailbox**, allowing the Microsoft 365 license to be removed while preserving mailbox data.
-
----
 
 ## Key Skills Demonstrated
 
