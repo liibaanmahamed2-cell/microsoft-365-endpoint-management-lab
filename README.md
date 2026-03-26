@@ -191,10 +191,14 @@ Although the device in this lab was enrolled directly into Microsoft Intune, an 
 
 - Created a Windows Autopilot deployment profile  
 - Configured Out-of-Box Experience (OOBE) settings  
+- Assigned the deployment profile to devices  
 - Reviewed deployment configuration options for automated device provisioning  
-- Explored how Autopilot integrates with Microsoft Intune for device management  
 
-These tasks demonstrate an understanding of how organisations standardise and automate device setup using Windows Autopilot.
+### Autopilot Deployment Profile
+![Autopilot Profile](./screenshots/autopilot-profile.png)
+
+### OOBE Configuration
+![Autopilot OOBE](./screenshots/autopilot-oobe.png)
 
 ---
 
