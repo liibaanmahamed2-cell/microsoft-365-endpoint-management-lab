@@ -158,6 +158,27 @@ Tasks performed:
 
 These tasks demonstrate common email administration and troubleshooting processes used in enterprise environments.
 
+### Shared Mailbox Created
+![Shared Mailbox](./screenshots/shared-mailbox.png)
+
+### Mailbox Permissions (Send As)
+![Send As Permission](./screenshots/send-as-permission.png)
+
+### Mailbox Permissions (Full Access)
+![Full Access Permission](./screenshots/full-access-permission.png)
+
+### Mailbox Converted to Shared
+![Mailbox Conversion](./screenshots/mailbox-after-conversion.png)
+
+### License Removed (Mailbox Preserved)
+![License Removed](./screenshots/license-removed.png)
+
+### Shared Mailbox Email Test
+![Shared Mailbox Send](./screenshots/shared-mailbox-send.png)
+
+### Message Trace (Email Delivery Verified)
+![Message Trace](./screenshots/message-trace.png)
+
 ---
 
 ## Windows Autopilot Deployment
