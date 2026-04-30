@@ -23,7 +23,6 @@ The objective of this project was to gain practical experience with the Microsof
 - [Device Security (Compliance + Conditional Access)](#device-security-compliance--conditional-access)
 - [Exchange Online Administration](#exchange-online-administration)
 - [Windows Autopilot Deployment](#windows-autopilot-deployment)
-- [Helpdesk Scenarios Simulated](#helpdesk-scenarios-simulated)
 - [Key Skills Demonstrated](#key-skills-demonstrated)
 
 ---
